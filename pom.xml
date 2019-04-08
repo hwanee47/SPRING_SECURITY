@@ -183,12 +183,7 @@
 			<version>1.4</version>
 		</dependency>
 		
-		<!-- Secured 어노테이션 사용 -->
-		<dependency>
-			<groupId>cglib</groupId>
-			<artifactId>cglib</artifactId>
-			<version>3.2.6</version>
-		</dependency>
+		
 	
 		<!-- Test -->
 		<dependency>
