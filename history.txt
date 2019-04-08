@@ -1,4 +1,7 @@
-﻿2019.04.08
+﻿[spring06_security branch description]
+>> spring security를 하나씩 적용하여 각단계별로 branch로 관리하여 학습.
+===============================================
+★ [ch01]
 1) pom.xml denpendency 추가 (Spring Security, mybatis, log4j2 ..)
 2) .gitignore 파일 추가.
    ※git에 이미 버전관리 되는 파일 삭제하고 .gitignore적용하기
