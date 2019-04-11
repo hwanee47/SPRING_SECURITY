@@ -115,29 +115,21 @@
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-core</artifactId>
 			<version>${spring.security.version}</version>
-			<type>jar</type>
-			<scope>compile</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-web</artifactId>
 			<version>${spring.security.version}</version>
-			<type>jar</type>
-			<scope>compile</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-config</artifactId>
 			<version>${spring.security.version}</version>
-			<type>jar</type>
-			<scope>compile</scope>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-taglibs</artifactId>
 			<version>${spring.security.version}</version>
-			<type>jar</type>
-			<scope>compile</scope>
 		</dependency>
 	
 		<!-- mysql -->
@@ -183,7 +175,7 @@
 			<version>1.4</version>
 		</dependency>
 		
-		<!-- Secured 어노테이션 사용 -->
+		<!-- @Secured 어노테이션 사용 라이브러리-->
 		<dependency>
 			<groupId>cglib</groupId>
 			<artifactId>cglib</artifactId>
